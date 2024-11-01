@@ -30,10 +30,10 @@ Building a Predictive System
 Deployment: Using the trained model to build a predictive system that can estimate insurance costs based on input data (age, gender, BMI, etc.).
 
 ## Files in the Repository
-app.py: Streamlit application file.
-requirements.txt: Lists dependencies for the project.
-model_lin.pkl: Serialized linear regression model.
-insurance_cost_prediction.ipynb: Jupyter notebook containing Python code for the project, including data exploration, preprocessing, model training, evaluation, and deployment.
+# app.py: Streamlit application file.
+# requirements.txt: Lists dependencies for the project.
+# model_lin.pkl: Serialized linear regression model.
+#insurace_cost_prediction.ipynb: Jupyter notebook containing Python code for the project, including data exploration, preprocessing, model training, evaluation, and deployment.
 README.md: Overview of the project and instructions for running the code, along with contact information.
 
 ## Instructions for Running the Code
