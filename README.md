@@ -1,5 +1,6 @@
-Medical Cost Prediction
-Project Overview
+### Medical Cost Prediction
+### Project Overview
+
 This project leverages machine learning to build a regression model that accurately predicts medical expenses based on individual characteristics. The model is trained on the Medical Cost Personal Dataset, and the app is built with Streamlit for an interactive user experience.
 
 Project Structure
