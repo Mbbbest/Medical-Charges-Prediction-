@@ -33,8 +33,8 @@ Deployment: Using the trained model to build a predictive system that can estima
 # app.py: Streamlit application file.
 # requirements.txt: Lists dependencies for the project.
 # model_lin.pkl: Serialized linear regression model.
-#insurace_cost_prediction.ipynb: Jupyter notebook containing Python code for the project, including data exploration, preprocessing, model training, evaluation, and deployment.
-README.md: Overview of the project and instructions for running the code, along with contact information.
+# insurace_cost_prediction.ipynb: Jupyter notebook containing Python code for the project, including data exploration, preprocessing, model training, evaluation, and deployment.
+# README.md: Overview of the project and instructions for running the code, along with contact information.
 
 ## Instructions for Running the Code
 Prerequisites: Ensure necessary libraries like pandas, numpy, scikit-learn are installed.
